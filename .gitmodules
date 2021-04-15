@@ -1,0 +1,9 @@
+[submodule "test/infrastructure"]
+	path = test/infrastructure
+	url = git@github.com:racker/ceres-test-infrastructure.git
+[submodule "test/data-generator"]
+	path = test/data-generator
+	url = git@github.com:racker/ceres-test-data-generator.git
+[submodule "apps/ceres"]
+	path = apps/ceres
+	url = git@github.com:racker/ceres.git
